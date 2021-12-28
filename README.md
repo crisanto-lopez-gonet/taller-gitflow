@@ -4,11 +4,9 @@
 
 ## Clonar el repositorio
 
-```sh
     git clone git@github.com:MYACCOUNT/MYREPO (SSH)
     ó
     git clone https://github.com/crisanto-lopez-gonet/taller-gitflow.git (HTTPS)
-```
 
 
 ## Features
