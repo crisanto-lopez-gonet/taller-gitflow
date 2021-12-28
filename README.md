@@ -1,5 +1,7 @@
 # Flujo de trabajo con Gitflow
 
+[CheatSheet de Gitflow](https://cheatography.com/guionardo/cheat-sheets/git-flow-and-git/pdf/)
+
 ## Clonar el repositorio
 
     git clone git@github.com:MYACCOUNT/MYREPO (SSH)
@@ -51,4 +53,3 @@
 
 #### Y se crea el PR después de comprobar que la integración con develop será OK
 
-[CheatSheet de Gitflow](https://cheatography.com/guionardo/cheat-sheets/git-flow-and-git/pdf/)
