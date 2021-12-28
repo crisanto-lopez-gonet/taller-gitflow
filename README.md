@@ -6,7 +6,7 @@
 
     git clone git@github.com:MYACCOUNT/MYREPO (SSH)
     ó
-    https://github.com/crisanto-lopez-gonet/taller-gitflow.git (HTTPS)
+    git clone https://github.com/crisanto-lopez-gonet/taller-gitflow.git (HTTPS)
 
 
 ## Features
