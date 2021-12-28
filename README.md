@@ -50,3 +50,5 @@
     git push -u origin feature/nombreFeature
 
 #### Y se crea el PR después de comprobar que la integración con develop será OK
+
+[CheatSheet de Gitflow](https://cheatography.com/guionardo/cheat-sheets/git-flow-and-git/pdf/)
